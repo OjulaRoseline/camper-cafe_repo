@@ -1,1 +1,43 @@
 
+boby{
+    background-image: url('https://i.ibb.co/6XnP9P0/coffee-bg.jpg');
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+.menu{
+    background-color:#d2a679 ;
+    width:300px ;
+    margin:50px auto ;
+    padding:20px ;
+    text-align:center ;
+    border-radius:10px ;
+    box-shadow:0 4px 10px rgba(0, 0, 0, 0.4) ;
+}
+.menu h1{
+    margin:0 ;
+    font-size:24px ;
+}
+.est{
+    font-style: italic;
+    font-size: 14px;
+}
+hr{
+    border:none;
+    border-top:2px solid#5a2d0c ;
+    margin:10px 0 ;
+}
+h2{
+    margin:10px 0 5px ;
+    font-size:20px ;
+}
+.item{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 0;
+    font-size:16px ;
+}
+.emoji{
+    font-size:20px ;
+}
