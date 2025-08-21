@@ -1,4 +1,4 @@
-# camper-cafe_repo☕🍵
+# camper-cafe-menu☕🍵
 This is a simple cafe menu website styled with CSS.it showcases how HTML and CSS can be used together to design a clean,attractive and responsive menu layout for a cafe.
 
 ✨Features
