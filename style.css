@@ -41,3 +41,9 @@ h2{
 .emoji{
     font-size:20px ;
 }
+.section-tittle{
+    font-size: 22px;
+    margin: 15px 0 10px;
+    font-weight:bold ;
+    color:#2e1a09 ;
+}
