@@ -48,6 +48,14 @@ h2{
     color:#2e1a09 ;
 }
 footer{
-    background: #d2a679;
+    background:black;
     margin: auto;
+    text-align: center;
+    font-weight: inherit;
+    
+}
+h1{
+    margin: 10px 0 5px;
+    font-size:20px ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
